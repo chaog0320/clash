@@ -502,7 +502,3 @@ rules:
   - "RULE-SET,Download,🎯 全球直连"
   - "GEOIP,CN,🎯 全球直连"
   - "MATCH,🐟 漏网之鱼"
-rules+:
-  - DOMAIN-KEYWORD, adobe, REJECT
-  - DOMAIN-SUFFIX,adobe.com,REJECT
-  - DOMAIN-SUFFIX,adobe.io,REJECT
